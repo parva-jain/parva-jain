@@ -1,4 +1,4 @@
-### Hi there, I'm **Parva Jain** 👋
+### Hi there, I'm **Parva Jain** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parva-jain&label=Views&color=blue&style=plastic" alt="parva-jain" /> </p>
 
@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on any DataScience Project.
 - 🤔 I’m looking for help with Productionizing Models.
 - 💬 Ask me about responsible AI.
-- 📫 How to reach me: [Twitter - @ParvaJain2](https://twitter.com/ParvaJain2)
-, Gmail - parvajainpjjp@gmail.com
+- 📫 How to reach me: [Twitter](https://twitter.com/ParvaJain2), [LinkedIn](https://www.linkedin.com/in/parva-jain-79995615a/)
+- <img src="https://media1.giphy.com/media/xT1Ra12a03lcpJf5C0/giphy.gif" width="27" >  Can mail me at parvajainpjjp@gmail.com
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: I listen to Indian hip-hop music alot.
 
