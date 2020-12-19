@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with Productionizing Models.
 - 💬 Ask me about responsible AI.
 - 📫 How to reach me: [Twitter](https://twitter.com/ParvaJain2), [LinkedIn](https://www.linkedin.com/in/parva-jain-79995615a/)
-- <img src="https://media1.giphy.com/media/xT1Ra12a03lcpJf5C0/giphy.gif" width="27" >  Can mail me at parvajainpjjp@gmail.com
+- 📧 Can mail me at parvajainpjjp@gmail.com
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: I listen to Indian hip-hop music alot.
 
