@@ -8,15 +8,12 @@
 
 
 
-- 🔭 I’m currently working on my DataScience and Python Skills.
-- 🌱 I’m currently learning Machine Learning and Data Scrapping.
-- 👯 I’m looking to collaborate on any DataScience Project.
-- 🤔 I’m looking for help with Productionizing Models.
-- 💬 Ask me about responsible AI.
-- 📫 How to reach me: [Twitter](https://twitter.com/ParvaJain2), [LinkedIn](https://www.linkedin.com/in/parva-jain-79995615a/)
-- 📧 Can mail me at parvajainpjjp@gmail.com
+- 🔭 I’m currently working on decentralized Applications (dApps) development.
+- 🌱 I’m proficient in smart contract creation using Solidity.
+- 💬 My interests lies in Digital Currencies and austrian economics.
+- 📫 How to reach me: parvajainpjjp@gmail.com
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: I listen to Indian hip-hop music alot.
+- ⚡ Interesting fact: I follow vegan lifestyle. 
 
 
 [![Parva's github stats](https://github-readme-stats.vercel.app/api?username=parva-jain&theme=merko&show_icons=true)](https://github.com/parva-jain/github-readme-stats)
