@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on decentralized Applications (dApps) development.
 - 🌱 I’m proficient in smart contract creation using Solidity.
+- 📗 I'm currently learning React and Nextjs.
 - 💬 My interests lies in Digital Currencies and austrian economics.
 - 📫 How to reach me: parvajainpjjp@gmail.com
 - 😄 Pronouns: He/his/him
