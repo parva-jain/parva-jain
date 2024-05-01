@@ -8,13 +8,12 @@
 
 
 
-- 🔭 I’m currently working on decentralized Applications (dApps) development.
-- 🌱 I’m proficient in smart contract creation using Solidity.
-- 📗 I'm currently learning React and Nextjs.
-- 💬 My interests lies in Digital Currencies and austrian economics.
+- 🔭 I’m currently working as a Blockchain Developer at Lighthouse.
+- 🌱 I’m proficient in smart contract development using Solidity.
+- 📗 I'm currently learning various web technologies.
 - 📫 How to reach me: parvajainpjjp@gmail.com
 - 😄 Pronouns: He/his/him
-- ⚡ Interesting fact: I follow vegan lifestyle. 
+- ⚡ Interesting fact: I follow a vegan lifestyle. 
 
 
 [![Parva's github stats](https://github-readme-stats.vercel.app/api?username=parva-jain&theme=merko&show_icons=true)](https://github.com/parva-jain/github-readme-stats)
