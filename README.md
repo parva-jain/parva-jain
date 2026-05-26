@@ -8,12 +8,9 @@
 
 
 
-- 🔭 I’m currently working as a Blockchain Developer at Lighthouse.
-- 🌱 I’m proficient in smart contract development using Solidity.
+- 🔭 I worked as a Blockchain Developer at Lighthouse.
+- ⚡ I’m proficient in smart contract engineering.
 - 📗 I'm currently learning various web technologies.
 - 📫 How to reach me: parvajainpjjp@gmail.com
 - 😄 Pronouns: He/his/him
-- ⚡ Interesting fact: I follow a vegan lifestyle. 
-
-
-[![Parva's github stats](https://github-readme-stats.vercel.app/api?username=parva-jain&theme=merko&show_icons=true)](https://github.com/parva-jain/github-readme-stats)
+- 🌱 Interesting fact: I follow a vegan lifestyle. 
